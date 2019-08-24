@@ -45,7 +45,7 @@
 #include "pango/pangocairo.h"
 #include "pango/pangofc-font.h"
 
-STRING_PARAM_FLAG(fontconfig_tmpdir, "/tmp",
+STRING_PARAM_FLAG(fontconfig_tmpdir, "/Users/marckregio/Documents/Github/tess4training/tesstutorial/tmp",
                   "Overrides fontconfig default temporary dir");
 
 #ifdef GOOGLE_TESSERACT
